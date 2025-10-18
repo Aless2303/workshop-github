@@ -1,5 +1,5 @@
 # GitHub Workshop
-my new mileanos test
+my new mileanos test alt branch
 This is a practical workshop consisting of common GitHub-related actions.
 It is based on the [`unikraft/catalog-core` repository](https://github.com/unikraft/catalog-core), giving us a concrete Git repository to screw up ... hmmmm ... to do wonderful amazing great things to.
 
